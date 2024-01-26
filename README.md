@@ -1,4 +1,5 @@
 ### About me 👋
+Hi there 👋. I started, and currently doing, an apprenticeship as a Software Engineer in 2022. My focus is in the cloud.  My most used language and tools are Go, Kubernetes, Docker, Terraform, Postgre and Grafana . My Goal is to be a Full-Cloud Dev by the year 2026.
 
 <!--
 **Zoxyren/Zoxyren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <p>My Skills</p>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,go" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,go,git,grafana,linux,openstack,postman" />
   </a>
 </p>
 
