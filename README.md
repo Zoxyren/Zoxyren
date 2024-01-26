@@ -1,6 +1,6 @@
 ### About me 👋
 Hi there 👋. I started, and currently doing, an apprenticeship as a Software Engineer in 2022. My focus is in the cloud.  My most used language is Go. My Goal is it to be a Full-Cloud Dev by the year 2026.
-
+[![Social-Media](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/oliver-wallisch-186b34290/))
 <!--
 **Zoxyren/Zoxyren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,go)](https://skillicons.dev)
