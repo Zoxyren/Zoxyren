@@ -21,6 +21,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
   <h1>Tools</h1>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,git,grafana,linux,openstack,postman" />
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,git,grafana,linux,openstack,postman&perline=4" />
 </p>
 
