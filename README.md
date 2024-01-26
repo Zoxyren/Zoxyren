@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
+    <p>My Skills</p>
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,go" />
   </a>
 </p>
